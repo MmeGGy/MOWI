@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Visual коди\Queen\Queen\Source.cpp(152,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Visual коди\Queen\Queen\Source.cpp(177,28): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Visual коди\Queen\Queen\Source.cpp(204,29): warning C4305: *=: усечение из "double" в "float"
+D:\Visual коди\Queen\Queen\Source.cpp(149,12): warning C4101: y: неиспользованная локальная переменная
+D:\Visual коди\Queen\Queen\Source.cpp(149,9): warning C4101: x: неиспользованная локальная переменная
+D:\Visual коди\Queen\Queen\Source.cpp(148,10): warning C4101: board: неиспользованная локальная переменная
+  Queen.vcxproj -> D:\Visual коди\Queen\Debug\Queen.exe
